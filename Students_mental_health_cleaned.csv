@@ -1,0 +1,102 @@
+Gender,Age,Course,Year of study,CGPA,Marital status,Depression,Anxiety,Panic attack,Specialist treatment
+Female,18.0,Engineering,1,3.24,No,Yes,No,Yes,No
+Male,21.0,Religion,2,3.24,No,No,Yes,No,No
+Male,19.0,Information Technology,1,3.24,No,Yes,Yes,Yes,No
+Female,22.0,Other,3,3.24,Yes,Yes,No,No,No
+Male,23.0,Other,4,3.24,No,No,No,No,No
+Male,19.0,Engineering,2,3.75,No,No,No,Yes,No
+Female,23.0,Religion,2,3.75,Yes,Yes,No,Yes,No
+Female,18.0,Computer Science,1,3.75,No,No,Yes,No,No
+Female,19.0,Other,2,2.74,No,No,No,No,No
+Male,18.0,Religion,1,3.75,No,No,Yes,Yes,No
+Female,20.0,Other,1,3.75,No,No,No,No,No
+Female,24.0,Engineering,3,3.75,Yes,Yes,No,No,No
+Female,18.0,Computer Science,1,3.24,No,Yes,No,No,No
+Male,19.0,Engineering,1,3.24,No,No,No,No,No
+Female,18.0,Other,2,3.75,No,No,Yes,No,No
+Male,24.0,Computer Science,3,3.75,No,No,No,No,No
+Female,24.0,Other,3,3.24,No,No,No,No,No
+Female,24.0,Engineering,4,3.24,Yes,Yes,Yes,Yes,No
+Female,20.0,Information Technology,2,3.75,No,No,Yes,No,No
+Female,18.0,Other,2,3.75,Yes,Yes,Yes,Yes,No
+Female,19.0,Engineering,1,3.24,No,No,No,Yes,No
+Female,18.0,Engineering,2,3.24,No,No,No,No,No
+Female,24.0,Computer Science,1,3.75,No,No,No,No,No
+Female,24.0,Engineering,1,3.24,No,No,No,No,No
+Female,23.0,Computer Science,3,3.75,No,Yes,Yes,Yes,No
+Female,18.0,Other,1,3.75,No,No,No,No,No
+Female,19.0,Engineering,1,3.75,No,No,No,No,No
+Male,18.0,Engineering,2,3.24,Yes,Yes,Yes,No,No
+Female,24.0,Information Technology,3,3.75,Yes,Yes,Yes,Yes,Yes
+Female,24.0,Computer Science,4,3.75,No,No,No,No,No
+Female,23.0,Other,2,3.24,No,No,No,No,No
+Male,18.0,Computer Science,2,3.24,No,No,No,No,No
+Male,19.0,Computer Science,1,3.75,No,No,No,Yes,No
+Male,18.0,Computer Science,2,3.75,Yes,Yes,Yes,No,Yes
+Female,19.0,Information Technology,1,3.24,No,Yes,Yes,Yes,No
+Female,18.0,Engineering,1,2.24,No,No,No,No,No
+Female,18.0,Other,3,3.24,No,Yes,Yes,No,No
+Female,19.0,Information Technology,1,2.74,No,Yes,Yes,Yes,No
+Female,18.0,Religion,1,3.75,No,No,No,No,No
+Female,24.0,Engineering,2,2.74,Yes,Yes,No,Yes,Yes
+Female,24.0,Information Technology,3,3.24,No,No,Yes,No,No
+Female,22.0,Engineering,4,3.75,No,No,No,No,No
+Female,20.0,Religion,2,3.24,No,Yes,No,No,No
+Male,20.53,Information Technology,1,1.0,No,No,No,No,No
+Male,23.0,Languages,2,3.75,No,No,No,Yes,No
+Male,18.0,Computer Science,1,3.75,No,No,Yes,Yes,No
+Female,19.0,Engineering,1,3.75,No,No,Yes,No,No
+Female,18.0,Engineering,4,3.75,No,No,No,No,No
+Male,24.0,Computer Science,2,3.24,No,Yes,No,No,No
+Female,24.0,Computer Science,3,3.75,No,No,No,Yes,No
+Female,23.0,Languages,1,2.74,Yes,Yes,No,Yes,Yes
+Female,18.0,Computer Science,2,3.75,No,No,Yes,No,No
+Female,19.0,Biomedical science,3,3.24,No,No,No,No,No
+Female,20.0,Engineering,3,3.24,Yes,Yes,Yes,Yes,No
+Female,19.0,Computer Science,1,3.75,No,Yes,No,Yes,Yes
+Male,21.0,Computer Science,1,3.24,No,No,No,No,No
+Male,23.0,Religion,3,3.75,No,No,No,No,No
+Female,20.0,Languages,3,3.24,No,Yes,Yes,No,No
+Female,18.0,Computer Science,1,3.75,No,No,No,No,No
+Female,23.0,Other,1,3.24,No,No,No,No,No
+Female,18.0,Information Technology,3,3.24,No,No,No,Yes,No
+Female,19.0,Computer Science,1,3.75,No,No,No,No,No
+Female,18.0,Computer Science,1,3.75,No,No,No,Yes,No
+Female,24.0,Engineering,1,3.75,No,No,No,Yes,No
+Female,24.0,Engineering,1,3.75,No,No,No,No,No
+Female,23.0,Other,1,3.75,No,Yes,Yes,No,No
+Female,18.0,Engineering,3,3.24,No,No,Yes,No,No
+Male,19.0,Other,3,3.24,Yes,Yes,No,Yes,No
+Female,18.0,Other,1,3.75,No,Yes,No,No,No
+Female,24.0,Other,4,3.24,No,No,Yes,No,No
+Female,24.0,Biomedical science,1,3.24,No,No,No,No,No
+Female,18.0,Other,3,3.75,No,No,No,Yes,No
+Female,19.0,Information Technology,3,3.24,Yes,Yes,No,No,No
+Male,18.0,Biomedical science,1,1.0,No,No,No,No,No
+Male,24.0,Information Technology,3,3.75,No,No,Yes,No,No
+Female,24.0,Engineering,1,3.75,No,No,Yes,Yes,No
+Female,23.0,Engineering,1,3.24,No,Yes,No,No,No
+Female,18.0,Other,2,3.24,No,No,No,Yes,No
+Female,19.0,Other,3,1.0,No,No,No,No,No
+Female,18.0,Engineering,4,3.75,No,No,No,No,No
+Female,24.0,Other,2,3.75,Yes,Yes,Yes,Yes,No
+Female,24.0,Other,2,3.75,No,No,No,No,No
+Female,19.0,Engineering,1,3.24,No,Yes,Yes,No,No
+Female,19.0,Religion,2,3.24,No,No,No,No,No
+Male,23.0,Other,1,3.24,No,No,No,No,No
+Female,18.0,Other,1,3.75,No,Yes,Yes,No,Yes
+Female,19.0,Religion,3,3.24,No,No,No,No,No
+Female,18.0,Other,1,3.75,No,Yes,Yes,Yes,No
+Male,24.0,Information Technology,1,3.24,No,No,Yes,No,No
+Male,24.0,Engineering,2,2.24,No,No,No,Yes,No
+Female,23.0,Languages,3,3.75,No,No,No,Yes,No
+Male,18.0,Engineering,2,3.24,No,No,Yes,No,No
+Female,19.0,Engineering,2,3.24,Yes,Yes,No,No,No
+Female,18.0,Languages,1,3.24,No,Yes,No,No,No
+Female,24.0,Religion,3,1.0,No,No,No,Yes,No
+Female,18.0,Religion,1,3.75,No,No,No,No,No
+Female,21.0,Computer Science,1,3.75,No,No,Yes,No,No
+Male,18.0,Engineering,2,3.24,No,Yes,Yes,No,No
+Female,19.0,Other,3,3.75,Yes,Yes,No,Yes,No
+Female,23.0,Religion,4,3.75,No,No,No,No,No
+Male,20.0,Biomedical science,2,3.24,No,No,No,No,No
